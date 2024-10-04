@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum-arbitrum
+module github.com/0xC-M0NK3Y/go-ethereum-arbitrum
 
 go 1.20
 
